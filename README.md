@@ -35,7 +35,7 @@ Predictive Pulse is a machine learning project focused on classifying hypertensi
 - **Jupyter Notebook:**  
   Use `model.ipynb` for data exploration, preprocessing, model training, and evaluation.
 - **Web App:**  
-  Open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) in your browser.  
+  Open [http://127.0.0.1:10000/](http://127.0.0.1:10000/) in your browser.  
   Enter patient data in the form to predict hypertension stage.
 
 ---
