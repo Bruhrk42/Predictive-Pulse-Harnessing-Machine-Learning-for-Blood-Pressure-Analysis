@@ -64,11 +64,11 @@ Predictive Pulse is a machine learning project focused on classifying hypertensi
 ## Screenshots
 
  - **Home Page**
-<img width="1918" height="1027" alt="image" src="https://github.com/user-attachments/assets/4a4cf3a9-a0ab-4a93-ae69-d6337fe6c8db" />
+<img width="1918" height="1027" alt="image" src="[https://github.com/Bruhrk42/Predictive-Pulse-Harnessing-Machine-Learning-for-Blood-Pressure-Analysis/blob/main/img/pph1.PNG]" />
 <br><br>
 
  - **Prediction Page**
-<img width="1912" height="1027" alt="image" src="https://github.com/user-attachments/assets/f772dfda-8ba8-4a35-a95a-2c76b7efe8c1" />
+<img width="1912" height="1027" alt="image" src="[https://github.com/Bruhrk42/Predictive-Pulse-Harnessing-Machine-Learning-for-Blood-Pressure-Analysis/blob/main/img/pph2.PNG]" />
 
 ---
 https://drive.google.com/file/d/1KX7USLdlvdcQEeheVyBQTR0b_DS-a_We/view?usp=drive_link
